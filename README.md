@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React and React native
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="tharushadilmith99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <!-- [<img align="left" alt="Tharusha_dilmit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
