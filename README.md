@@ -5,7 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Didula-Lakminda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Didula-Lakminda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerank.svg" />][hackerank]
+<!-- [<img align="left" alt="Didula-Lakminda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerank.svg" />][hackerank] -->
 [<img align="left" alt="Didula-Lakminda | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!-- [<img align="left" alt="Didula-Lakminda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
@@ -19,7 +19,7 @@
 
 [linkedin]: https://www.linkedin.com/in/didula-lakminda/
 [facebook]: https://www.facebook.com/dmax.lakminda/
-[hackerank]: https://www.hackerrank.com/didulalakminda31
+<!-- [hackerank]: https://www.hackerrank.com/didulalakminda31 -->
 
 <br />
 
