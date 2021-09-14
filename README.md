@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Didula Lakminda
 
-- 🌱 I’m currently learning React and React native
+- 🌱 I’m currently learning React and React native.
+- 🥅 2021 Goals: Contribute and complete more projects.
+- ⚡ Fun fact: I love to play cricket and badminton.
 
 ### Connect with me:
 
@@ -13,7 +15,7 @@
 </br>
 </br>
 
-[![Tharusha's github stats](https://github-readme-stats.vercel.app/api?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats)
+[![Didula's github stats](https://github-readme-stats.vercel.app/api?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats)
 
