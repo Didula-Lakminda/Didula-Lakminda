@@ -12,6 +12,7 @@
 
 <br />
 
+
 ---
 
 ### Languages and Tools 🛠️
@@ -58,7 +59,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/didula-lakminda/
