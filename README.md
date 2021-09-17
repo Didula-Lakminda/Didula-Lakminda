@@ -63,7 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats) -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> <br />
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical" />
 </a>
