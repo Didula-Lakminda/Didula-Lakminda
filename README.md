@@ -48,10 +48,6 @@
 <!-- <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/> -->
 <!-- <img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p> -->
 
-</br>
-</br>
-</br>
-
 
 ---
 <!-- 
@@ -60,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats) -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=radical" />
 </a>
