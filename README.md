@@ -4,6 +4,9 @@
 - 🥅 2021 Goals: Contribute and complete more projects.
 - ⚡ Fun fact: I love to play cricket and badminton.
 
+
+---
+
 ### 📫 Contact Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
