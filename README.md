@@ -12,6 +12,13 @@
 
 [<img align="left" alt="Didula-Lakminda | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
+<!-- 
+[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Sabesan | Instagram" height="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Sabesan | Messenger" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-messenger--v2.png"/>][messenger]
+[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Sabesan | Skype" height="22px" src="https://img.icons8.com/color/240/000000/skype--v1.png"/>][skype]
+[<img align="left" alt="Sabesan | Telegram" height="22px" src="https://img.icons8.com/color/240/000000/telegram-app--v1.png"/>][telegram] -->
 
 <br />
 
