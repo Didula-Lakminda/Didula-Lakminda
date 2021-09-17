@@ -12,6 +12,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools 🛠️
 
 <p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
@@ -45,6 +47,9 @@
 </br>
 </br>
 </br>
+
+
+---
 <!-- 
 [![Didula's github stats](https://github-readme-stats.vercel.app/api?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats)
 
