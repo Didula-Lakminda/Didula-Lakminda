@@ -49,6 +49,7 @@
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <!-- <img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/typescript.png"> -->
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img width="30px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 <br />
 <!-- <img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> -->
@@ -57,9 +58,7 @@
 <img width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <br />
-<img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <!-- <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/> -->
-<br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <!-- <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/> -->
 <!-- <img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p> -->
