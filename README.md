@@ -35,7 +35,7 @@
 <img width="30px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <br />
-<img width="30px" src="https://img.icons8.com/officexs/16/000000/react.png"/>
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
 <img width="30px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
