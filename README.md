@@ -31,8 +31,8 @@
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img src="https://img.icons8.com/ios-filled/50/4a90e2/java-eclipse.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
+<img width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/java-eclipse.png"/>
+<img width="30px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <br />
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
