@@ -35,7 +35,7 @@
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/intelliJ.png">
+<img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
