@@ -57,10 +57,7 @@
 <img width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
-<img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
-<br />
-<!-- <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/> -->
-<!-- <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/> -->
+<!-- <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/> -->
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <!-- <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/> -->
