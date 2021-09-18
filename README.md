@@ -28,11 +28,11 @@
 ### Languages and Tools 🛠️
 
 <p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-  <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/ios-filled/50/4a90e2/java-eclipse.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <br />
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
@@ -45,8 +45,9 @@
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+<img width="30px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 <br />
-<img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<!-- <img width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> -->
 <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -56,11 +57,11 @@
 <br />
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+<!-- <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/> -->
 <!-- <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/> -->
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
-<img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
+<!-- <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/> -->
 <!-- <img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p> -->
 
 ---
