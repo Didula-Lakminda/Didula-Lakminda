@@ -62,10 +62,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda)](https://github.com/Didula-Lakminda/github-readme-stats) -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark">
+<a href="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia">
 	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=dark">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=algolia">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=algolia" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/didula-lakminda/
