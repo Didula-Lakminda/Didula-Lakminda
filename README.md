@@ -44,6 +44,7 @@
 <br />
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img width="30px" src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <!-- <img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/typescript.png"> -->
