@@ -32,16 +32,20 @@
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu.png">
 <br />
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img width="30px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
+<img width="30px" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
+<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+<br />
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <!-- <img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/> -->
 <!-- <img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/> -->
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
-<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+
 <br />
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <!-- <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/> -->
