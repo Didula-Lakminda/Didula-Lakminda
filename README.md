@@ -7,7 +7,7 @@
 ---
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 <!-- https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif -->
 <!-- https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif -->
 <p align="center">I'm full stack developer.<br/>I specialize in Web-Development (React JS), Mobile(React Native) and Backend(Node JS) .<br> I also love writing Tech-blogs, UI Design etc.<br>- 🌱 I’m currently learning React and React native. <br />
@@ -82,6 +82,16 @@
 	<img align="center" alt="Didula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Didula-Lakminda&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=algolia">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&theme=algolia" />
+</a>
+	
+<br />
+	
+<a align="center"  href="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&layout=compact&hide_border=true&theme=vue-dark">
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&&hide_border=true&layout=compact&theme=vue-dark" /></p>
+</a>
+<br/>
+<a align="center"  href="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Lakminda&hide_border=true">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Lakminda&theme=vue-dark&hide_border=true" alt="Didula-Lakminda" /></p>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/didula-lakminda/
