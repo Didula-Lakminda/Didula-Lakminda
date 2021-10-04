@@ -90,6 +90,8 @@
 	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didula-Lakminda&&hide_border=true&layout=compact&theme=vue-dark" /></p>
 </a>
 <br/> -->
+---
+	
 <a align="center"  href="https://github-recomadme-streak-stats.herokuapp.com/?user=Didula-Lakminda&hide_border=true">
 	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Lakminda&theme=algolia&hide_border=true" alt="Didula-Lakminda" /></p>
 </a>
