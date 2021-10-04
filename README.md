@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Didula Lakminda <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 
-- 🌱 I’m currently learning React and React native.
+<!-- - 🌱 I’m currently learning React and React native.
 - 🥅 2021 Goals: Contribute and complete more projects.
-- ⚡ Fun fact: I love to play cricket and badminton.
+- ⚡ Fun fact: I love to play cricket and badminton. -->
 
 ---
 
