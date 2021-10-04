@@ -4,8 +4,13 @@
 - 🥅 2021 Goals: Contribute and complete more projects.
 - ⚡ Fun fact: I love to play cricket and badminton.
 
-
 ---
+
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+<!-- https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif -->
+<!-- https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif -->
+<p align="center">I'm full stack developer.<br/>I specialize in Web-Development (React JS), Mobile(React Native) and Backend(Node JS) .<br> I also love writing Tech-blogs, UI Design etc.<br></p><br/>
 
 ### 📫 Contact Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
