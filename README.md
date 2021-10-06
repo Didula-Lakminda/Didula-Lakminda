@@ -92,7 +92,9 @@
 <br/> -->
 ---
 	
-
+<a align="center"  href="https://github-recomadme-streak-stats.herokuapp.com/?user=Didula-Lakminda&hide_border=true">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Didula-Lakminda&theme=algolia&hide_border=true" alt="Didula-Lakminda" /></p>
+</a>
 
 [linkedin]: https://www.linkedin.com/in/didula-lakminda/
 [facebook]: https://www.facebook.com/dmax.lakminda/
