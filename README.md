@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Didula Lakminda <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40" height="40"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="20%"/></p>
 
 - 🌱 I’m currently learning React and React native.
 - 🥅 2021 Goals: Contribute and complete more projects.
