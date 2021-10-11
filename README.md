@@ -2,6 +2,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="20%"/></p>
 
+- ⚡ I'm full stack developer.<br/>I specialize in Web-Development (React JS), Mobile(React Native) and Backend(Node JS) .<br> I also love writing Tech-blogs, UI      	Design etc.
 - 🌱 I’m currently learning React and React native.
 - 🥅 2021 Goals: Contribute and complete more projects.
 - ⚡ Fun fact: I love to play cricket and badminton.
@@ -15,7 +16,6 @@
 - 🥅 2021 Goals: Contribute and complete more projects. <br />
 - ⚡ Fun fact: I love to play cricket and badminton.</p><br/> -->
 
----
 
 ### 📫 Contact Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
