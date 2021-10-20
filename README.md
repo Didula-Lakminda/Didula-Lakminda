@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to play cricket and badminton.</p><br/> -->
 
 
-<!-- ### 📫 Contact Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> -->
+### 📫 Contact Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
 [<img align="left" alt="Didula-Lakminda | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
