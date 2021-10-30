@@ -6,7 +6,7 @@
 - 🥅 I also love writing Tech-blogs, UI      	Design etc.
 - 🌱 I’m currently learning React and React native.
 - 🥅 2021 Goals: Contribute and complete more projects.
-- ⚡ Fun fact: I love to play cricket and badminton.
+<!-- - ⚡ Fun fact: I love to play cricket and badminton. -->
 
 ---
 
